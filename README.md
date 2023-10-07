@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Svelte**
 
-- 👨‍💻 All of my projects are available at [https://coder-sayem.vercel.app/](https://coder-sayem.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sayem.vercel.app/](https://sayem.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
